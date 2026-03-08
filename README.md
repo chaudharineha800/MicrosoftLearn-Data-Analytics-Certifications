@@ -19,7 +19,7 @@ I earned the **"Discover Data Analysis"** badge from Microsoft Learn.
 - Business Insights
 
 ### Badge
-![Discover Data Analysis Badge](discover_data_analysis_badge.png)
+![Discover Data Analysis Badge](data-analytics-and-microsoft.svg)
 
 ---
 
@@ -37,6 +37,6 @@ I earned the **"Get Started Building with Power BI"** badge.
 - Microsoft Power BI
 
 ### Badge
-![Power BI Badge](powerbi_badge.png)
+![Power BI Badge](get-started-power-bi.svg)
 
 ---
