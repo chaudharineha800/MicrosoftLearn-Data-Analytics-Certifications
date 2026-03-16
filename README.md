@@ -69,3 +69,32 @@ I earned the **"Introduction to End-to-End Analytics using Microsoft Fabric"** b
 ### Badge
 
 ![Microsoft Fabric Badge](introduction-end-analytics-use-microsoft-fabric.svg)
+
+---
+## 4️⃣ Get Started with Copilot in Power BI
+
+I earned the **"Get Started with Copilot in Power BI"** badge from Microsoft Learn.
+
+### Skills Learned
+
+* Using AI-powered assistance in Power BI
+* Generating report summaries automatically
+* Creating visuals using natural language prompts
+* Enhancing productivity in report development
+
+### Concepts
+
+* AI-assisted analytics
+* Natural language data exploration
+* Automated insights and summaries
+* Smart report generation
+
+### Tools
+
+* Microsoft Power BI
+* Copilot for Power BI
+
+### Badge
+
+![Copilot in Power BI Badge](power-bi-module.svg)
+
