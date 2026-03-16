@@ -40,3 +40,32 @@ I earned the **"Get Started Building with Power BI"** badge.
 ![Power BI Badge](get-started-power-bi.svg)
 
 ---
+## 3️⃣ Introduction to End-to-End Analytics using Microsoft Fabric
+
+I earned the **"Introduction to End-to-End Analytics using Microsoft Fabric"** badge from Microsoft Learn.
+
+### Skills Learned
+
+* Understanding the Microsoft Fabric ecosystem
+* Data ingestion and integration
+* Data transformation and preparation
+* End-to-end analytics workflow
+* Data analysis and reporting
+
+### Concepts
+
+* Data pipelines
+* Lakehouse architecture
+* Integrated analytics platform
+* Modern data workflows
+
+### Tools
+
+* Microsoft Fabric
+* Data Factory
+* Lakehouse
+* Power BI
+
+### Badge
+
+![Microsoft Fabric Badge](introduction-to-end-to-end-analytics-using-microsoft-fabric.svg)
