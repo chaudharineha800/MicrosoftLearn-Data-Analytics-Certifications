@@ -68,4 +68,4 @@ I earned the **"Introduction to End-to-End Analytics using Microsoft Fabric"** b
 
 ### Badge
 
-![Microsoft Fabric Badge](introduction-to-end-to-end-analytics-using-microsoft-fabric.svg)
+![Microsoft Fabric Badge](introduction-end-analytics-use-microsoft-fabric.svg)
